@@ -30,7 +30,7 @@
         android:id="@+id/empty_txt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="You havn't add any message yet !!\n\nClick + to Add Now."
+        android:text="You haven't add any message yet !!\n\nClick + to Add Now."
         android:gravity="center"
         android:layout_centerInParent="true"
         android:visibility="gone" />
